@@ -1,6 +1,6 @@
-# _{First Web Page}_
+# First Web Page
 
-#### _{Brief description of application}, {Date of current version}_
+#### This repository includes two webpages, my-first-webpage and favorite things, 01.06.2020
 
 #### By _**{List of contributors}**_
 
