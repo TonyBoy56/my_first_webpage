@@ -2,11 +2,11 @@
 
 #### This repository includes two webpages, my-first-webpage and favorite things, 01.06.2020
 
-#### By _**{List of contributors}**_
+#### By Jose Amesquita and Antonio Cruz
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This has been our joint efforts in practicing webpage building. Through this we learned how to change and utilize tags, create links and paths to websites and images. As well, we have learned how to navigate the terminal and push our changes made in these files to github.
 
 ## Setup/Installation Requirements
 
